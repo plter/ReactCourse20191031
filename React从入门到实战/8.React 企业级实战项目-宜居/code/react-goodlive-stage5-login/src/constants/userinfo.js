@@ -1,0 +1,2 @@
+export const LOGIN_USERINFO = "LOGIN_USERINFO"
+export const LOGIN_UPDATE = "LOGIN_UPDATE"
