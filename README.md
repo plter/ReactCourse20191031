@@ -1,5 +1,7 @@
 # ReactCourse20191031
-React 从入门到实践
+React 从入门到实践  
+
+QQ群：594494505
 
 # 课程目录  
 
@@ -17,4 +19,3 @@ React 从入门到实践
 | 第十章 React Dva框架 | <ul><li>1001dva介绍与环境搭建</li> <li>1002dva中引入antd</li> <li>1003dva路由配置</li> <li>1004dva了解路由原理</li> <li>1005dva编写UI Component组件</li> <li>1006dva Model创建</li> <li>1007dva路由跳转</li> <li>1008dva Model异步处理</li> <li>1009dva Mock数据处理</li> <li>1010dva 网络请求</li> <li>1011dva Model API</li> <li>1012dva redux-actions</li> </ul> |
 | 第十一章 React TypeScript | <ul><li>1101项目创建</li> <li>1102React引入</li> <li>1103React组件声明</li> <li>1104数据传递</li> <li>1105状态管理</li> <li>1106事件处理</li> <li>1107条件与列表渲染</li> <li>1108引入第三方UI</li> <li>1109路由</li> <li>1110Redux</li> </ul> |
 | 第十二章 TypeScript+Node | <ul><li>1201TypeScript + Node.js 实战 项目搭建</li> <li>1202TypeScript + Node.js 实战 API请求</li> <li>1203TypeScript + Node.js 实战 创建User Model</li> <li>1204TypeScript + Node.js 实战 回调函数</li> <li>1205TypeScript + Node.js 实战 创建Repos Model</li> <li>1206TypeScript + Node.js 实战 数据排序</li> <li>1207TypeScript + Node.js 实战 增加接口</li> </ul> |
-
