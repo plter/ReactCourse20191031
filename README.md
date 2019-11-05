@@ -1,7 +1,8 @@
-# ReactCourse20191031
+# ReactCourse20191031  
 React 从入门到实践  
 
-QQ群：594494505
+QQ群：594494505   
+视频教程： [https://yunp.top/p/v/1512](https://yunp.top/p/v/1512)  
 
 # 课程目录  
 
