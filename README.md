@@ -28,3 +28,16 @@ QQ群：594494505
 | 第十章 React Dva框架 | <ul><li>1001dva介绍与环境搭建</li> <li>1002dva中引入antd</li> <li>1003dva路由配置</li> <li>1004dva了解路由原理</li> <li>1005dva编写UI Component组件</li> <li>1006dva Model创建</li> <li>1007dva路由跳转</li> <li>1008dva Model异步处理</li> <li>1009dva Mock数据处理</li> <li>1010dva 网络请求</li> <li>1011dva Model API</li> <li>1012dva redux-actions</li> </ul> |
 | 第十一章 React TypeScript | <ul><li>1101项目创建</li> <li>1102React引入</li> <li>1103React组件声明</li> <li>1104数据传递</li> <li>1105状态管理</li> <li>1106事件处理</li> <li>1107条件与列表渲染</li> <li>1108引入第三方UI</li> <li>1109路由</li> <li>1110Redux</li> </ul> |
 | 第十二章 TypeScript+Node | <ul><li>1201TypeScript + Node.js 实战 项目搭建</li> <li>1202TypeScript + Node.js 实战 API请求</li> <li>1203TypeScript + Node.js 实战 创建User Model</li> <li>1204TypeScript + Node.js 实战 回调函数</li> <li>1205TypeScript + Node.js 实战 创建Repos Model</li> <li>1206TypeScript + Node.js 实战 数据排序</li> <li>1207TypeScript + Node.js 实战 增加接口</li> </ul> |
+
+
+
+--------下面是介绍------不算太华丽丽的分割线----------
+
+前端常用框架中，使用率非常高的框架就是React。React是用于构建用户界面的 JavaScript 库，具有声明式，组件化，虚拟DOM，一次学习，随处编写等优点。  
+本套课程适合具有HTML、CSS和JavaScript基础的同学学习，也适合正在工作并准备学习React的工作者学习，或者已经入坑React准备深入到项目应用的同学学习。  
+视频学习的最大优点是可以以最快速度搞定，避免了走弯路和无用功，所以我们特录制成课程，等你来撸！  
+我们与其他课程不同的是，在整个学习阶段，遇到的问题，可以时时与老师进行QQ与微信沟通，可以说集线上优质的课程，线下的体贴服务与一体，同时以299的价格享受5999的问答服务体验。  
+本套课程目前包含十二个章节，内容既有深度也很有广度。后续会不断更新。从基础到进阶再到项目实战于一体的课程，可以说，是从React的零基础一直到实际项目的内容全部包含，是一套良心之作。只要认真跟着走下来，一定以及肯定搞定了React。  
+课程具体内容包含，React基础API、Antd框架应用及按需加载、Fetch网络请求与封装、全家桶之React-Router路由应用、全家桶之React-Redux基础与深入应用、React进阶、React&ReactRedux实战之登录注册认证、React&ReactRedux实战项目之“宜居”(租房类Webapp)、React新特性之Hook、React优秀框架Dva(github点星数14.1k)、React  TypeScript开发同时最后补充TypeScript+Node应用。  
+本套课程命名风波，本来想叫的高大上一点，例如：React深入浅出，React企业级入门与实战，但是奈何录制课程的老师死脑筋，说课程就是入门基础和实战课程，就只能叫React从入门到实战，咱也是给跪了！  
+后续预计更新：React Antd实战项目、React Antd-Pro实战项目、Dva+umijs实战项目
